@@ -1,58 +1,36 @@
+# Uniwell
 
+Uniwell helps students maintain a healthy balance between their academic responsibilities and personal well-being. This app provides tools to manage their studies, physical health, mental wellness, and social life. Enhance your university life by integrating health and productivity seamlessly.
 
-# Goodtime
+## Key Features
 
+### Physical Health Monitor:
+- Log workouts and track fitness progress with simple entry options for gym sessions, running, yoga, etc.
+- Basic nutrition tracker to log meals and get dietary suggestions.
+- View friends' fitness activities.
+- Reminders to stay active after 2 days of inactivity.
+- Explore running/tracking routes around campus.
 
-A minimalist but powerful productivity timer designed to keep you focused and free of distractions.  
-Alternate between focused work sessions and short breaks, all handled by the app.  
-Get rid of procrastination and improve your time management!  
+### Mental Wellness Toolkit:
+- Daily mood tracker with insights into patterns and triggers.
+- Access mindfulness and meditation exercises designed to reduce stress.
+- Sleep tracking and analysis to improve sleep quality.
+- Daily morning greeting notifications.
+- Sleep reminders for better sleep hygiene.
 
-⏳ split your work into focused sessions and then reward yourself with a break  
-☕ after multiple work sessions, take a longer break
+### Budget Manager:
+- Track spending, set budget limits, and identify cost-saving opportunities.
+- Financial insights tailored to help students manage their funds more effectively.
 
-## Features
-- No ads
-- No tracking or personal data collection
-- Free & Open Source
-- Lightweight: ~2 MB download size
-- Battery friendly
-- Configurable timer
-- Pause, skip or add 60 seconds
-- Long breaks after a number of completed work sessions
-- Detailed statistics
-- AMOLED-friendly user interface
-- Immersive fullscreen mode
-- Keep the screen on
-- Custom notification sounds
-- Auto start work or break without user interaction
-- Disable sound and Wi-Fi connection during the work sessions
-- Colored labels
-- Timer styles
-- Daily reminder
-- Manually add sessions
-- Edit completed sessions
-- Backup export and import
-- Export statistics to CSV
-- Screensaver mode
-- Themes
-- Separate notification sound for work and break
-- Insistent notifications
+### Insights and Analytics:
+- Dashboard integrating data from all categories for a holistic view of your health and academics.
+- Personalized tips and insights based on user activities and goals.
+- Gamification elements such as badges and streaks to encourage maintaining a balanced lifestyle.
 
-## Translations
-You can help translate or improve existing translations at [Crowdin](https://crowdin.com/project/goodtime). Thank you!
+### Achievements and Leaderboards:
+- Incentivize participation with badges, points, or achievements for community contributions.
+- Leaderboards for categories like most helpful, most active, or best in study habits to foster competition and recognition.
 
-## Trouble with Goodtime getting killed by Android?
-Different phone [OEMs](https://en.wikipedia.org/wiki/Original_equipment_manufacturer) (phone vendors) have an aggressive take towards apps that rely on background work and alarms to save some battery life.
-It is recommended that you disable the battery optimization for this app in order to get accurate alarms.
-In the worst case, if you still have issues, try to keep the phone plugged in and/or the screen on while working.
+## Suggestions, Questions, Contact
 
-Read more about this topic on [www.dontkillmyapp.com](https://dontkillmyapp.com/)
-
-## Suggestions, questions, contact
-For any suggestions or questions, please contact me and I'll be glad to help!
-
-You may also browse the [issues](https://github.com/adrcotfas/Goodtime/issues) to see if your question or request already exists and open a new issue if necessary.
-
-## Licence
-Goodtime is free and open source software, [licensed](https://github.com/adrcotfas/Goodtime/blob/master/LICENCE.md) under the Apache License, Version 2.0.
-Copyright 2016-2019 Adrian Cotfas.
+For any suggestions or questions, please feel free to contact us — we're here to help! telegram @impacy8 @dominic2412
